@@ -25,7 +25,7 @@ A Next.js weather dashboard that shows the current weather and a 5-day forecast 
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/AshirAzeem-Developer/nextjs-practice-projects.git
+git clone https://github.com/AshirAzeem-Developer/nextjs-projects-beginner-to-advanced
 cd Beginner/weather-app
 npm install
 npm run dev
