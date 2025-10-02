@@ -1,6 +1,8 @@
 # 🌦 Weather App
 
-## A Next.js weather dashboard that shows the current weather and a 5-day forecast for any city.
+A Next.js weather dashboard that shows the current weather and a 5-day forecast for any city.
+
+---
 
 ## 📖 Features
 
